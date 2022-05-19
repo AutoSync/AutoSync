@@ -14,5 +14,5 @@
 ## Meus principais projetos
 
 - <a href="https://github.com/AutoSync/nucleo">Nucleo Language</a>
-- Lightning Engine OpenGL C++ [WIP]</a>
+- Lightning Engine OpenGL C++ [Work in progress]</a>
 - <a href="https://github.com/AutoSync/grix">Grix Minimal OpenGL App</a>
