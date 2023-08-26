@@ -1,9 +1,9 @@
 ## Olá!!! meu nome é Erick Andrade e seja bem vindo ao meu Github
 
-- 🎓 Engenharia de Software 2/7
+- 🕹️ Desenvolvedor Unreal Engine
+- 🎓 Engenharia de Software/Computação Gráfica
 - ☕ Adoro Cafe
-- 📓 Aprendendo sobre Compiladores e criando um 👉 <a href="https://github.com/AutoSync/nucleo">Nucleo Lang</a>
-- 🕹️ Desenvolvedor Unity Engine/Unreal Engine
+- 📓 Aprendendo sobre Compiladores
 
 <div>
 <a href="https://github.com/AutoSync">
