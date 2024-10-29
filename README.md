@@ -2,8 +2,8 @@
 
 - 🕹️ Desenvolvedor Unreal Engine
 - 🎓 Engenharia de Software/Computação Gráfica
-- ☕ Adoro Cafe
 - 📓 Aprendendo sobre Compiladores
+- 🖥️ C++, 🏢 C#, ☕ JAVA, 🌐 JAVASCRIPT e 🐍 PYTHON
 
 <div>
 <a href="https://github.com/AutoSync">
@@ -14,3 +14,5 @@
 ## Meus principais projetos
 
 - AutoSync Titan -> shader-enhanced vector graphics editor developed in C++ [Work in progress]</a>
+- SGI Graphos Integrados
+- Simulador de Transportes
