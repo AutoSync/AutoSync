@@ -1,18 +1,59 @@
-## Olá!!! meu nome é Erick Andrade e seja bem vindo ao meu Github
+# 👋 Olá, eu sou Erick Andrade  
 
-- 🕹️ Desenvolvedor Unreal Engine
-- 🎓 Engenharia de Software/Computação Gráfica
-- 📓 Aprendendo sobre Compiladores
-- 🖥️ C++, 🏢 C#, ☕ JAVA, 🌐 JAVASCRIPT e 🐍 PYTHON
+💻 **Desenvolvedor Full Stack | Engenheiro de Software | Entusiasta em IA e Automação**
 
-<div>
-<a href="https://github.com/AutoSync">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AutoSync&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+Sou apaixonado por tecnologia e por criar soluções inteligentes que unem **inovação, eficiência e design funcional**. Tenho experiência no desenvolvimento de sistemas web, aplicações em **React, Next.js, Node.js**, e integração com **Python** para automação e inteligência artificial.
 
-</div>
+---
 
-## Meus principais projetos
+## 🚀 Tecnologias e Ferramentas  
 
-- AutoSync Titan -> shader-enhanced vector graphics editor developed in C++ [Work in progress]</a>
-- SGI Graphos Integrados
-- Simulador de Transportes
+### 💡 Linguagens  
+- JavaScript / TypeScript  
+- Python  
+- C++  
+- C#  
+- Java  
+
+### ⚙️ Frameworks e Bibliotecas  
+- React • Next.js • Node.js  
+- Express • Flask • FastAPI  
+- React Native • WPF  
+- TailwindCSS • ShadCN/UI  
+
+### 🧩 Banco de Dados  
+- PostgreSQL • MySQL • SQLite • MongoDB  
+
+### 🧠 Inteligência Artificial e Dados  
+- OpenAI API • TensorFlow • Scikit-learn  
+- Processamento de Imagem e Vídeo  
+
+### 🧰 DevOps e Ferramentas  
+- Docker • Git • GitHub Actions  
+- VSCode • Figma • Postman  
+
+---
+
+## 🧩 Projetos em Destaque  
+
+🔹 **[NúcleoLang](https://github.com/AutoSync/nucleolang)** — Um compilador experimental que permite gerar binários e criar bibliotecas em uma linguagem própria.  
+🔹 **Simulador de Tráfego Inteligente** — Sistema que ajusta semáforos dinamicamente conforme o fluxo detectado por IA.  
+🔹 **Editor de Código Visual** — Ambiente interativo com grafo para execução de nós de dados e de lógica.  
+
+---
+
+## 📈 Estatísticas do GitHub  
+
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=AutoSync&show_icons=true&theme=radical)  
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AutoSync&layout=compact&theme=radical)
+
+---
+
+## 🌐 Onde me encontrar  
+
+📫 **Email:** erickspace11@gmail.com  
+📫 **Email:** erickspace11@hotmail.com  
+
+---
+
+⭐ _"A tecnologia é apenas uma ferramenta — a verdadeira inovação vem de quem a usa para mudar o mundo."_  
