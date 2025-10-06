@@ -37,7 +37,7 @@ Sou apaixonado por tecnologia e por criar soluções inteligentes que unem **ino
 ## 🧩 Projetos em Destaque  
 
 🔹 **[NúcleoLang](https://github.com/AutoSync/nucleolang)** — Um compilador experimental que permite gerar binários e criar bibliotecas em uma linguagem própria.  
-🔹 **Simulador de Tráfego Inteligente** — Sistema que ajusta semáforos dinamicamente conforme o fluxo detectado por IA.  
+🔹 **[PDV](https://https://github.com/AutoSync/POC-PDV)** — Prova de Conceito para Sistema de Ponto de Venda (PDV)
 🔹 **Editor de Código Visual** — Ambiente interativo com grafo para execução de nós de dados e de lógica.  
 
 ---
