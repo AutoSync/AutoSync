@@ -11,18 +11,16 @@ Sou apaixonado por tecnologia e por criar soluções inteligentes que unem **ino
 ### 💡 Linguagens  
 - JavaScript / TypeScript  
 - Python  
-- C++  
-- C#  
+- C e C++  
+- C# e .NET
 - Java  
 
 ### ⚙️ Frameworks e Bibliotecas  
 - React • Next.js • Node.js  
 - Express • Flask • FastAPI  
 - React Native • WPF  
-- TailwindCSS • ShadCN/UI  
-
-### 🧩 Banco de Dados  
-- PostgreSQL • MySQL • SQLite • MongoDB  
+- TailwindCSS • ShadCN/UI
+- 
 
 ### 🧠 Inteligência Artificial e Dados  
 - OpenAI API • TensorFlow • Scikit-learn  
